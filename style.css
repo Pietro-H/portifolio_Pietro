@@ -6,11 +6,18 @@
 body{
     background: #5CCEEE;
     font-size: 16px;
+    color: black;
+    font-family: sans-serif;
 }
 header{
     background-color: #24C0EB;
-    height: 4em;
+    color: white;
+    height: 6em;
 }
-h1{
+header h1{
     text-align: center;
+}
+img{
+    width: 50%;
+    border-radius: 18px;
 }
